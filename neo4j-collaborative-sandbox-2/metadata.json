@@ -1,0 +1,6 @@
+{
+  "name": "Neo4j Collaborative Sandbox",
+  "description": "A real-time collaborative graph database visualization tool with a Cypher web shell and live graph updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
